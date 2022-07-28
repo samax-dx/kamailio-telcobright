@@ -7,6 +7,7 @@ librpath.lst
 makecfg.lst
 config.mak
 modules.lst
+core
 # ignore dependency files
 *.d
 # ignore binary files and objects
