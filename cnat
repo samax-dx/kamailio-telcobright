@@ -1,0 +1,1 @@
+CnatRule : °b×ÄVCNAT="cnat translation add proto UDP vip 192.168.0.91 39920 to 192.168.0.91 38986->10.10.2.102 18990  " && sudo vppctl $CNAT
